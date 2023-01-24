@@ -10,5 +10,5 @@ export default function App() {
   );
 }
 const AppContainer = styled.div`
-   text-align: center;
+text-align: center;
 `;
